@@ -1,0 +1,1 @@
+# HSGP_detector_resolution
